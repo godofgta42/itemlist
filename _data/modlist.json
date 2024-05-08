@@ -6,30 +6,6 @@
     "version": "2.3.1.0"
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
-  },
-  {
-    "author": "Captolamia",
-    "name": "Toolkit - Channel Points (ressurected) 1.5",
-    "steamId": "3240408211",
-    "version": "1.5.1"
-  },
-  {
     "author": "Lakuna",
     "name": "Prepare Moderately",
     "steamId": "2057362949",
@@ -40,6 +16,30 @@
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "11.0.3"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
   },
   {
     "author": "Jaxe",
@@ -82,5 +82,47 @@
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "Vendan, Kiame Vivacity und \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Sun Lamp Honesty",
+    "steamId": "3239657472",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Energistics",
+    "name": "Start Without Tech",
+    "steamId": "2550777561",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
+  },
+  {
+    "author": "Captolamia",
+    "name": "Toolkit - Channel Points (ressurected) 1.5",
+    "steamId": "3240408211",
+    "version": "1.5.1"
   }
 ]

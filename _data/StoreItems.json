@@ -2465,7 +2465,37 @@
 		"price": 1250,
 		"category": "Fertigkeitstrainer",
 		"defname": "Neurotrainer_Intellectual"
+	},
+	{
+		"abr": "doppelterwandkühlschrank",
+		"price": 121,
+		"category": "Möbel",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "großerkühlschrank",
+		"price": 307,
+		"category": "Möbel",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "kühlschrank",
+		"price": 186,
+		"category": "Möbel",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "mini-kühlschrank",
+		"price": 121,
+		"category": "Möbel",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "wandkühlschrank",
+		"price": 186,
+		"category": "Möbel",
+		"defname": "RimFridge_WallRefrigerator"
 	}
 	],
-	"total": 411
+	"total": 416
 }
