@@ -57,7 +57,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8888.40976"
+    "version": "1.0.8895.34406"
   },
   {
     "author": "Dubwise",
@@ -90,16 +90,28 @@
     "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Autocleaner",
+    "steamId": "2051042827",
+    "version": "1.0.379.0018"
+  },
+  {
     "author": "1trickPwnyta",
     "name": "Sun Lamp Honesty",
     "steamId": "3239657472",
     "version": "1.0.0.0"
   },
   {
-    "author": "Energistics",
-    "name": "Start Without Tech",
-    "steamId": "2550777561",
-    "version": "1.0.0.0"
+    "author": "Alan Dariva und Usagirei",
+    "name": "More Planning [1.5]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs und TheRealLemon",
+    "name": "Map Reroll (1.4/1.5)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "nry",

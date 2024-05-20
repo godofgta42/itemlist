@@ -2495,7 +2495,13 @@
 		"price": 186,
 		"category": "Möbel",
 		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "autocleaner",
+		"price": 592,
+		"category": "Objekte",
+		"defname": "AutocleanerItem"
 	}
 	],
-	"total": 416
+	"total": 417
 }
